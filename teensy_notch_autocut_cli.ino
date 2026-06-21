@@ -1,3 +1,14 @@
+// Copyright (c) 2026 Simon Benichou
+// Project   : Teensy AutoCut DSP
+// License   : GNU General Public License v3.0
+// Repository: https://github.com/beniouch/teensy-autocut-dsp
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+
+
 // ============================================================
 //  Teensy Audio Shield — 4-band Notch + Delay + Autocut CLI
 //  Board  : Teensy 3.x / 4.x
